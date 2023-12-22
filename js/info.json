@@ -1,0 +1,37 @@
+{
+  "background": {
+    "video": "video/bg.mp4",
+    "image": "images/bgimg.jpeg"
+  },
+  "userdetails": {
+    "userimage": "images/sq.png",
+    "username": "Abhay Choudhary",
+    "userbio": "A coder, Techie, Gamer, Photographer!!!"
+  },
+  "links": {
+    "Instagram": {
+      "href": "https://instagram.com/official_abhay_ghasal",
+      "src": "images/icons/instagram.gif"
+    },
+    "Github": {
+      "href": "https://github.com/abhaychoudhary0211",
+      "src": "images/icons/github.gif"
+    },
+    "Linkedin": {
+      "href": "https://www.linkedin.com/in/abhay-choudhary-2b71b4295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "src": "images/icons/linkedin.gif"
+    },
+    "YouTube":{
+      "href": "https://youtube.com/@titansofbgmi?si=WmNjANa6-oLaArjl",
+      "src": "images/icons/youtube.gif"
+    },
+    "Contact Me": {
+      "href": "mailto:abhaychoudhary888888@gmail.com",
+      "src": "images/icons/mail.gif"
+    }
+  },
+  "projects":{
+    "Links":"https://github.com/abhaychoudhary0211/links",
+    "Website":"#"
+  }
+}
