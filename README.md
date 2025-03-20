@@ -1,51 +1,62 @@
-# [Links]
-## All the links at a single and beautiful place!
+# MyLinks - Personal Portfolio Links Page
 
-[![Links](https://media.discordapp.net/attachments/994237473460854804/1035868128493707354/unknown.png)](https://iamkunal9.github.io/links)
+A beautiful and responsive personal portfolio links page that showcases all your social media and important links in one place.
 
-Links is a easy and a single place to keep all your `links`!
-
-- Just update the [`js/info.json`]
-- Add your username, bio, profile, projects and links there.
-- ✨Magic ✨
+[![MyLinks](https://media.discordapp.net/attachments/994237473460854804/1035868128493707354/unknown.png)](https://abhaychoudhary0211.github.io/mylinks)
 
 ## Features
 
-- Easy to use.
-- Just add details in json file.
-- No need to code.
-- You can also add diffrent background as your need.
-- Free!!!!
+- 🎨 Beautiful and modern design
+- 📱 Fully responsive layout
+- ⚡ Fast loading with smooth animations
+- 🔄 Easy to customize
+- 🎯 SEO optimized
+- 📊 Analytics ready
+- 🌙 Dark mode support
+- 🎬 Background video/image support
+
+## Customization
+
+1. Edit `js/info.json` to update your information:
+   - Profile picture
+   - Username
+   - Bio
+   - Social media links
+   - Background image/video
+
+2. Add your icons in `images/icons/` directory
+   - Supported formats: GIF, PNG, JPG
+   - Recommended size: 40x40px
+
+3. Customize colors and styles in `css/main.css`
 
 ## Installation
 
-Just pull this repo do changes in [info.json] and just host using github pages or any hosting!!!
-
-```json
-{
-  "background": {
-    "video": "video/bg.mp4",
-    "image": "images/bgimg.jpeg"
-  },
-  "userdetails": {
-    "userimage": "/images/sq.png",
-    "username": "iamkunal9",
-    "userbio": "A coder, Techie, Eth Hacker!!!"
-  },
-```
-
-or just watch [this] youtube tutorial to finish up your own links!!!
-
-
+1. Fork this repository
+2. Edit `js/info.json` with your information
+3. Add your images and icons
+4. Deploy to GitHub Pages or any hosting service
 
 ## License
 
-MIT
+MIT License
 
-**Free Software, Hell Yeah!**
+Copyright (c) 2024 Abhay Choudhary
 
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
-   [Links]:<https://iamkunal9.github.io/links>
-   [`js/info.json`]: <https://github.com/iamkunal9/links/js/info.json>
-   [info.json]: <https://github.com/iamkunal9/links/js/info.json>
-   [this]: <https://youtu.be/BZr6YM_Ovwc>
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

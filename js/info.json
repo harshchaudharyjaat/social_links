@@ -13,25 +13,37 @@
       "href": "https://instagram.com/official_abhay_ghasal",
       "src": "images/icons/instagram.gif"
     },
-    "Github": {
+    "GitHub": {
       "href": "https://github.com/abhaychoudhary0211",
       "src": "images/icons/github.gif"
     },
-    "Linkedin": {
-      "href": "https://www.linkedin.com/in/abhay-choudhary-2b71b4295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    "LinkedIn": {
+      "href": "https://www.linkedin.com/in/abhay-choudhary-2b71b4295",
       "src": "images/icons/linkedin.gif"
     },
-    "YouTube":{
-      "href": "https://youtube.com/@titansofbgmi?si=WmNjANa6-oLaArjl",
+    "YouTube": {
+      "href": "https://youtube.com/@titansofbgmi",
       "src": "images/icons/youtube.gif"
+    },
+    "Facebook": {
+      "href": "https://www.facebook.com/people/Abhay-Ghasal/pfbid02MZ7zGevdZgjC8tKNbe8vQpSkMDjriV1dDLMq5yPPey4TQfvTwgk3nqWhmyPCDiTSl/?rdid=lVoAJxLlgYc3sd8y&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F16LVeKwYdp%2F",
+      "src": "images/icons/fb.gif"
+    },
+    "Snapchat": {
+      "href": "https://www.snapchat.com/add/bgmi_rahul1?share_id=Bll_NiUoYKA&locale=en-IN",
+      "src": "images/icons/snap.gif"
+    },
+    "Discord": {
+      "href": "https://discord.com/invite/U7jfbFQ6CV",
+      "src": "images/icons/discord.gif"
+    },
+    "Telegram": {
+      "href": "https://t.me/TITANSOFBGMI",
+      "src": "images/icons/t.gif"
     },
     "Contact Me": {
       "href": "mailto:abhaychoudhary888888@gmail.com",
       "src": "images/icons/mail.gif"
     }
-  },
-  "projects":{
-    "Links":"https://github.com/abhaychoudhary0211/links",
-    "Website":"#"
   }
 }
