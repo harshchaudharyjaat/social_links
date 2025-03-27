@@ -2,7 +2,7 @@
 
 A beautiful and responsive personal portfolio links page that showcases all your social media and important links in one place.
 
-[![MyLinks](https://media.discordapp.net/attachments/994237473460854804/1035868128493707354/unknown.png)](https://abhaychoudhary0211.github.io/mylinks)
+[![MyLinks](https://media.discordapp.net/attachments/994237473460854804/1035868128493707354/unknown.png)](https://iamabhay-links.vercel.app/)
 
 ## Features
 
@@ -41,7 +41,7 @@ A beautiful and responsive personal portfolio links page that showcases all your
 
 MIT License
 
-Copyright (c) 2024 Abhay Choudhary
+Copyright (c) 2024 [!Kunal Sharma](https://github.com/iamkunal9) & [!Abhay Choudhary](https://github.com/abhaychoudhary0211)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
