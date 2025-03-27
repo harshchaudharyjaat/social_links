@@ -38,12 +38,19 @@
       "src": "images/icons/discord.gif"
     },
     "Telegram": {
-      "href": "https://t.me/TITANSOFBGMI",
-      "src": "images/icons/t.gif"
+      "href": "https://t.me/abhaychoudhary0211",
+      "src": "images/icons/telegram.gif"
     },
     "Contact Me": {
       "href": "mailto:abhaychoudhary888888@gmail.com",
       "src": "images/icons/mail.gif"
     }
+  },
+  "projects": {
+    "My Links": "https://github.com/abhaychoudhary0211/mylinks",
+    "Login with PHP": "https://github.com/abhaychoudhary0211/login-with-php",
+    "Birthday Special": "https://github.com/abhaychoudhary0211/BIRTHDAY_WISHES",
+    "Portfolio": "https://github.com/abhaychoudhary0211/portfolio",
+    "Python Login": "https://github.com/abhaychoudhary0211/login_with_flask"
   }
 }

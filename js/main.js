@@ -1,6 +1,6 @@
 var navbar = document.querySelector("body");
 var data = document.createElement("p");
-data.innerHTML = "Made with ❤️ By Abhay Choudhary";
+data.innerHTML = "Made with ❤️ By Kunal Sharma & Abhay Choudhary";
 
 // Add loading animation
 var loaderContainer = document.createElement('div');
@@ -110,6 +110,19 @@ fetch('./js/info.json')
             contentContainer.appendChild(br);
         }
 
+        // Projects Section
+        if (linknames['projects'] && Object.keys(linknames['projects']).length > 0) {
+            var projectp = document.createElement("p");
+            projectp.id = "project";
+            projectp.innerHTML = "My Projects";
+
+            var opt = document.createElement('table');
+            opt.id = "table";
+            opt.innerHTML = procj(linknames['projects']);
+            contentContainer.appendChild(projectp);
+            contentContainer.appendChild(opt);
+        }
+
         // Footer
         var footer = document.createElement("footer");
         contentContainer.appendChild(footer);
@@ -126,22 +139,28 @@ fetch('./js/info.json')
     });
 
 function procj(data){
-    function html(name,hrf){
-        var html =  `<td id="rcorners2" data-href='${hrf}' onclick='handleLinkClick(event)'>${name}</td>`
+    function html(name, hrf){
+        var html = `<td id="rcorners2" data-href='${hrf}' onclick='handleLinkClick(event)'><span>${name}</span></td>`
         return html;
     }
     
-    if(Object.keys(data).length%2==0){
-        var tabledata = "<tr>";
-        for(var i=0;i<Object.keys(data).length;i++){
-            tabledata += html(Object.keys(data)[i],Object.values(data)[i]);
-            if((i+1)%2==0){
-                tabledata += "</tr>";
-                tabledata += "<tr>";
-            }
+    var tabledata = "<tr>";
+    var count = 0;
+    
+    for(var i = 0; i < Object.keys(data).length; i++){
+        tabledata += html(Object.keys(data)[i], Object.values(data)[i]);
+        count++;
+        
+        if(count % 2 === 0 && i < Object.keys(data).length - 1){
+            tabledata += "</tr><tr>";
         }
-        tabledata += "</tr>"
     }
+    
+    if(count % 2 !== 0){
+        tabledata += "<td></td>"; // Add empty cell if odd number of projects
+    }
+    
+    tabledata += "</tr>";
     return tabledata;
 }
 
