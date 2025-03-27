@@ -4,53 +4,35 @@
     "image": "images/bgimg.jpeg"
   },
   "userdetails": {
-    "userimage": "images/sq.png",
-    "username": "Abhay Choudhary",
+    "userimage": "images/sq.jpeg",
+    "username": "Harsh Chaudhary",
     "userbio": "A coder, Techie, Gamer, Photographer!!!"
   },
   "links": {
     "Instagram": {
-      "href": "https://instagram.com/official_abhay_ghasal",
+      "href": "https://instagram.com/harsh_chaudhary_9509",
       "src": "images/icons/instagram.gif"
     },
     "GitHub": {
-      "href": "https://github.com/abhaychoudhary0211",
+      "href": "https://github.com/harshchaudharyjaat",
       "src": "images/icons/github.gif"
     },
     "LinkedIn": {
-      "href": "https://www.linkedin.com/in/abhay-choudhary-2b71b4295",
+      "href": "https://www.linkedin.com/in/hariom-chaudhary-aa6a4a311/",
       "src": "images/icons/linkedin.gif"
     },
-    "YouTube": {
-      "href": "https://youtube.com/@titansofbgmi",
-      "src": "images/icons/youtube.gif"
-    },
-    "Facebook": {
-      "href": "https://www.facebook.com/people/Abhay-Ghasal/pfbid02MZ7zGevdZgjC8tKNbe8vQpSkMDjriV1dDLMq5yPPey4TQfvTwgk3nqWhmyPCDiTSl/?rdid=lVoAJxLlgYc3sd8y&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F16LVeKwYdp%2F",
-      "src": "images/icons/fb.gif"
-    },
     "Snapchat": {
-      "href": "https://www.snapchat.com/add/bgmi_rahul1?share_id=Bll_NiUoYKA&locale=en-IN",
+      "href": "https://www.snapchat.com/add/harshchaudh9068?share_id=3Zjy22IEMO8&locale=en-IN",
       "src": "images/icons/snap.gif"
     },
-    "Discord": {
-      "href": "https://discord.com/invite/U7jfbFQ6CV",
-      "src": "images/icons/discord.gif"
-    },
-    "Telegram": {
-      "href": "https://t.me/abhaychoudhary0211",
-      "src": "images/icons/t.gif"
-    },
     "Contact Me": {
-      "href": "mailto:abhaychoudhary888888@gmail.com",
+      "href": "mailto:tharshchaudhary05jat@gmail.com",
       "src": "images/icons/mail.gif"
     }
   },
   "projects": {
-    "My Links": "https://github.com/abhaychoudhary0211/mylinks",
-    "Login with PHP": "https://github.com/abhaychoudhary0211/login-with-php",
-    "Birthday Special": "https://github.com/abhaychoudhary0211/BIRTHDAY_WISHES",
-    "Portfolio": "https://github.com/abhaychoudhary0211/portfolio",
-    "Python Login": "https://github.com/abhaychoudhary0211/login_with_flask"
+    "Portfolio": "https://github.com/harshchaudharyjaat/portfolio",
+    "Social Links": "https://github.com/harshchaudharyjaat/social_links",
+    "My_Cafe": "https://github.com/harshchaudharyjaat/My-Cafe"
   }
 }
